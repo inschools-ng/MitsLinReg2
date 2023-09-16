@@ -1,2 +1,3 @@
 # MitsLinReg2
-List of data files Data characterized by observations of patient's satisfaction against predictors. 
+List of notebooks and datasets for UIC Data Science 1 (Prof Hadis) homework.
+The data files and notebooks are classified as used. 
